@@ -7,7 +7,9 @@
  - Restructured code to better handle the announcements area
 
 #### Thoughts
-I think the design still needs work and so do the dynamic content but since I can see most of the content of the page now, I'm satisfied. Definitely need to speed things up, though.
+Overall satisfied with how the challenge is going. The community on Twitter is great and were really supportive.
+
+In terms of the project, I think the design still needs work and so do the dynamic content but since I can see most of the content of the page now, I'm satisfied. Definitely need to speed things up, though.
 
 #### Aim For Tomorrow
 Fix the navbar and start on the teachers' page
