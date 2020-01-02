@@ -12,7 +12,31 @@ Overall satisfied with how the challenge is going. The community on Twitter is g
 In terms of the project, I think the design still needs work and so do the dynamic content but since I can see most of the content of the page now, I'm satisfied. Definitely need to speed things up, though.
 
 #### Aim For Tomorrow
-Fix the navbar and start on the teachers' page
+ - Fix the navbar
+ - Start on the teachers' page
 
 #### Link to Work
 [upiscdr](https://github.com/Ulyzses/upiscdr)
+
+---
+
+### Day 2: 2 January 2020
+
+#### Today's Progress
+ - Designed database schema
+ - Started on implementation of sort-by functionality in tables
+
+#### Thoughts
+Regarding the database schema, I'm not entirely sure if what I've done is good or bad. I haven't exactly worked with relational databases before and this is new experience. I did try to follow what I've read about normalisation so hopefully I got it or most of it correctly.
+
+On the other hand, thought I did aim to fix the navbar and start the teachers' page, well, nothing really goes quite as planned. I ran out of time and decided to instead just implement a sort-by functionality in the tables. I thought it was easy at first after discovering MD Bootstrap, but turns out DataTables is an entire API. Not yet sure if I'm going to use/learn the API for my tables since it kinda messes up most of what I have right now, and blindly implementing it into the script would result in me cooking a fresh serving spaghetti code. Which leaves me with two options: learn the API and restructure my code or make my own sorting function. It might be like reinventing the wheel but in my opinion, it would be good for me to try to figure out things on my own as well. Besides, the API is too massive for such a small feat&mdash;much like using VS Code to open standalone .txt files.
+
+Overall, not really satisfied with today's progress. I feel like I could've done much better than this. Still, I got to learn about a new API which I might need to revisit again in the future, which is a win.
+
+#### Aim For Tomorrow
+ - Finish sort-by functionality of tables (whether by DataTables or own code)
+ - **start on the teachers' page**
+
+#### Links to Work
+ - [Database Schema](https://dbdesigner.page.link/pVtMUNWkgFdxLuHFA)
+ - [upiscdr](https://github.com/Ulyzses/upiscdr)
