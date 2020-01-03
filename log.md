@@ -35,8 +35,25 @@ Overall, not really satisfied with today's progress. I feel like I could've done
 
 #### Aim For Tomorrow
  - Finish sort-by functionality of tables (whether by DataTables or own code)
- - **start on the teachers' page**
+ - **Start on the teachers' page**
 
 #### Links to Work
  - [Database Schema](https://dbdesigner.page.link/pVtMUNWkgFdxLuHFA)
  - [upiscdr](https://github.com/Ulyzses/upiscdr)
+
+---
+
+### Day 3: 3 January 2020
+
+#### Today's Progress
+Start on unfinished CS 11 exercises
+
+#### Thoughts
+Today, I didn't touch CDR at all, which was weird, to say the least. Anyway, doing this project, I felt slow and I didn't even manage to see it to completion today. This is very telling and I feel like I would be more productive if I speed things up without botching anything up.
+
+#### Aim For Tomorrow
+ - Finish bonus exercises
+ - Continue CDR
+
+#### Link to Work
+[CS 11 Bonus Exercises](https://github.com/Ulyzses/CS11_Bonus)
