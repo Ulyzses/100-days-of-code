@@ -57,3 +57,20 @@ Today, I didn't touch CDR at all, which was weird, to say the least. Anyway, doi
 
 #### Link to Work
 [CS 11 Bonus Exercises](https://github.com/Ulyzses/CS11_Bonus)
+
+---
+
+### Day 4: 4 January 2020
+
+#### Today's Progress
+Finished CS 11 exercises
+
+#### Thoughts
+First time doing my own art in a project. It was pixel art and I figured I should start learning it to be able to create mine own programs (games, maybe in the future). Aside from that, nothing else really happened; everything was straightforward and I managed to finish them before the day ended.
+
+#### Aim For Tomorrow
+ - Continue CDR
+
+#### Links to Work
+ - [CS 11 Bonus Exercises repository](https://github.com/Ulyzses/CS11_Bonus)
+ - [CS 11 Bonus Exercises page](https://ulyzses.github.io/CS11_Bonus/)
