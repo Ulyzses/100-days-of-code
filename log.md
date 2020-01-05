@@ -69,8 +69,29 @@ Finished CS 11 exercises
 First time doing my own art in a project. It was pixel art and I figured I should start learning it to be able to create mine own programs (games, maybe in the future). Aside from that, nothing else really happened; everything was straightforward and I managed to finish them before the day ended.
 
 #### Aim For Tomorrow
- - Continue CDR
+Continue CDR
 
 #### Links to Work
  - [CS 11 Bonus Exercises repository](https://github.com/Ulyzses/CS11_Bonus)
  - [CS 11 Bonus Exercises page](https://ulyzses.github.io/CS11_Bonus/)
+
+---
+
+### Day 5: 5 January 2020
+
+#### Today's Progress
+ - Fixed navbar
+ - Implemented database schema
+ - Restructured login backend
+ - Added logout functionality
+ - Added an about page template
+
+#### Thoughts
+As today progressed, I felt like I wasn't doing enough progress... until I decided to list them down and I actually had a decent amount of them. Well, quality is better than quantity but again, progress is still progress. I also started using task manager sites to help me organise the things I need to do and hopefully I'll be able to better monitor my activities then.
+
+#### Aims For Tomorrow
+ - Finish About page
+ - Start on the profile pages
+
+#### Link to Work
+[CS 11 Bonus Exercises](https://github.com/Ulyzses/CS11_Bonus)
