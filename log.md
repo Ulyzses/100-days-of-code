@@ -107,5 +107,8 @@ As today progressed, I felt like I wasn't doing enough progress... until I decid
 #### Thoughts
 I'm satisfied that I managed to implement the sorting functionality without needing to rely on an API. Also first time properly using the sort method since before it intimidated me. So far so good, I just hoped I'd speed up though.
 
+#### Aim For Tomorrow
+ - Create user registration page
+
 #### Link to Work
 [upiscdr](https://github.com/Ulyzses/upiscdr)
