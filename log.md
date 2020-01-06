@@ -94,4 +94,18 @@ As today progressed, I felt like I wasn't doing enough progress... until I decid
  - Start on the profile pages
 
 #### Link to Work
-[CS 11 Bonus Exercises](https://github.com/Ulyzses/CS11_Bonus)
+[upiscdr](https://github.com/Ulyzses/upiscdr)
+
+---
+
+### Day 6: 6 January 2020
+
+#### Today's Progress
+ - Restructured student grades page
+ - Implemented filter functionality to scores
+
+#### Thoughts
+I'm satisfied that I managed to implement the sorting functionality without needing to rely on an API. Also first time properly using the sort method since before it intimidated me. So far so good, I just hoped I'd speed up though.
+
+#### Link to Work
+[upiscdr](https://github.com/Ulyzses/upiscdr)
