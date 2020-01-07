@@ -112,3 +112,21 @@ I'm satisfied that I managed to implement the sorting functionality without need
 
 #### Link to Work
 [upiscdr](https://github.com/Ulyzses/upiscdr)
+
+---
+
+### Day 7: 7 January 2020
+
+####  Today's Progress
+ - Changed student grades page to load subjects and announcements using PHP instead of Ajax calls
+ - Created a functional registration page
+
+#### Thoughts
+Finally! I actually followed my prior aims. Been needing to get the registration done to tick things off of my list. I'd say it's worthwhile since I learned about SQL Inserts and a few caveats. I also feel great about the students page change because I learned about PHP functions that I didn't know before (spaceship operators and null coalescing operators).
+
+#### Aim For Tomorrow
+ - Finish registration page (middle name and birthday)
+ - Set Login Cookies
+
+#### Link to Work
+[upiscdr](https://github.com/Ulyzses/upiscdr)
